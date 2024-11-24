@@ -1,4 +1,4 @@
-# warthunder-ascript
+# warthunder-ascript 
 战争雷霆手游脚本
 目前只支持红手指云手机!!!
 1.提取把权限给到qq浏览器,安装软件权限以及文件权限
